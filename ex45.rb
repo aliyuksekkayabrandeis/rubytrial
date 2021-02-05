@@ -28,7 +28,7 @@ end
 
 class Road < Scene
     def enter()
-
+        puts "hello world"
     end
 end
 
